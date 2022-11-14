@@ -2,7 +2,7 @@
 My html, CSS, and javascript webapp calculator 
 
 
-A site preview is available here:https://bahaasalha.github.io/My-Calculator-App/
+A site preview is available here:https://bahaasalha.github.io/My_Calculator_App/
 
 
 
